@@ -4,14 +4,14 @@
 # Purpose: The program is command line imitation of a DMV Registry program.
 # It uses python and SQLite to create a database with all relevant entries
 # and supports multiple functionalities to Update that database. There are
-# two user type, registry worker and police officer. The functionalities
+# two user type, registry agent and police officer. The functionalities
 # displayed are dependent on the login used.
 #
-# Registry Worker Login            Police Officer Login
+# Registry Agent Login             Police Officer Login
 # Username: lclarke1               Username: wdisney
 # Password: password               Password: password
 #
-# Registry Worker Operations
+# Registry Agent Operations
 #
 # a - Register Birth               g - View all database users
 # b - Register Marriage            h - View all database persons
